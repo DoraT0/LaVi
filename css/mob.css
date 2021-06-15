@@ -1,0 +1,40 @@
+/*1200*/
+@media only screen and (max-width: 1200px)
+{
+		.btn1{
+			left: 230px;
+			font-size: 20px;
+			font-weight: bold;
+			margin-top: -21px;
+			}
+	.btn{
+		right: 30px;
+		font-size: 20px;
+		}
+
+	.header__logo{
+		margin-left: 150px;
+		font-size: 50px;
+				}
+	.form{
+		right: 32px;
+		font-size: 20px;
+	}
+
+	.about{
+		display: block;
+		bottom: 50px;
+		margin: 0px 310px 0px
+	}
+	.about1{
+		display: block;
+		margin: 0px 310px 0px;
+		top: 115px;
+	}
+	
+	.foto{
+		margin-left: 35px;
+		margin-top: 50px;
+		display: flex;
+	}
+}
